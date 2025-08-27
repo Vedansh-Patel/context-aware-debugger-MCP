@@ -1,0 +1,10 @@
+{
+  "ZeroDivisionError": [
+    "Initialize/validate denominator before division.",
+    "Add explicit checks or try/except to handle ZeroDivisionError."
+  ],
+  "NullPointerException": [
+    "Ensure variables are initialized before dereferencing.",
+    "Add null checks or use Optional types where applicable."
+  ]
+}
